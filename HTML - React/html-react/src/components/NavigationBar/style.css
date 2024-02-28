@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+}
+
+.logo {
+  height: 50px;
+  margin-left: 22px;
+}
+
+.lupa {
+  height: 13px;
+  margin-left: 22px;
+  margin-top: 10px;
+}
+
+.busqueda {
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: rgb(233, 230, 230);
+  border-radius: 20px;
+  max-height: 35px;
+}
+
+.inputBusqueda {
+  background-color: rgb(233, 230, 230);
+  border-radius: 20px;
+  outline: 0;
+  border: 0;
+}
+
+header {
+  height: 55px;
+  display: flex;
+  border-bottom: rgb(238, 238, 238) solid 0.3px; /* linea suave */
+}
+
+.escribir {
+  margin-left: 850px;
+  display: flex;
+  margin-top: 15px;
+}
+
+.writepng {
+  height: 20px;
+}
+
+.write {
+  font-family: Arial, helvetica, sans-serif;
+  margin-top: 4px;
+  margin-left: 6px;
+  color: rgb(133, 133, 133);
+}
+
+.campana {
+  height: 23px;
+  margin-top: 15px;
+  margin-left: 35px;
+}
+
+.user {
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  margin-top: 12px;
+  margin-left: 30px;
+}
