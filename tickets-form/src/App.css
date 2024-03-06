@@ -1,0 +1,31 @@
+.tickets-form, .tickets-list {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.tickets-form form {
+  display: flex;
+  flex-direction: column;
+  background: rgb(221, 221, 221);
+  padding: 30px;
+  height: 250px;
+  max-width: 400px;
+  border-radius: 10px;
+  margin-top: 3%;
+
+}
+
+.tickets-list {
+  align-items: center;
+  flex-direction: column;
+}
+
+.details {
+  background: rgb(221, 221, 221);
+  margin-top: 1%;
+  padding: 15px;
+  height: 170px;
+  border-radius: 10px;
+  min-width: 400px;
+}
