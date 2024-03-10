@@ -19,8 +19,6 @@ function List() {
       
       <div className={'lists'}>
 
-        
-
         {todos.map((todo, index) => (
           <Item to={`/details/${index+1}`} title={todo.title} />
         ))}

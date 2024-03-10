@@ -6,8 +6,6 @@ const Item = (props) => {
     const id = props.id;
     const url = props.to;
 
-    
-
     return (
         <div className={'item-to-do'}>
             <div className='left-side'>
