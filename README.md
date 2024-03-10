@@ -1,1 +1,1 @@
-# Medium-Clone
+All web ui training activities.
