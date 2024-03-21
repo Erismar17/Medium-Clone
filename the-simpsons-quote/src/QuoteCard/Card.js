@@ -5,7 +5,7 @@ const Card = (props) => {
     return (
         <div>
             <p>{props.info?.character}</p>
-            <img src={props.info?.image}/>
+            <img src={props.info?.image} alt='a'/>
             <p>{props.info?.quote}</p>
         </div>
     )
